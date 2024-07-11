@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "JotNest",
+    "slug": "JotNest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets/LogoNest.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/iconJotNest.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconJotNest.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gui363536.JotNest"
+    },
+    "web": {
+      "favicon": "./assets/iconJotNest.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b046d53f-9785-47be-abf2-463c7ac4a2ca"
+      }
+    }
+  }
+}
