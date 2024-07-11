@@ -1,6 +1,7 @@
 # JotNest
 
-![JotNest Logo](https://github.com/user-attachments/assets/3b8fe9c6-3a4c-4b17-b6db-1e7bf7094823)
+
+![JotNest Logo](https://github.com/user-attachments/assets/90669814-4780-4136-b376-af2aa0b8ba60)
 
 ## Visão Geral
 
