@@ -42,7 +42,7 @@ Para começar a utilizar o JotNest localmente, siga estas etapas:
  3. **Abra no expo go:**
  
     ```faça o download do Expo go 
-    pesquise por expo go na apple ou na play store escannei o QR code
+    pesquise por expo go na apple ou na play store, e escannei o QR code.
 
    
 
